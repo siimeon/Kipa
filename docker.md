@@ -7,11 +7,15 @@ Docker makes it easy to create light weight and disposable enviroments.
 
 While in folder KIPA project root dir build :
 
-´docker build -t kipa/dev .´
+```
+docker build -t kipa/dev .
+```
 
 And after that run container image:
 
-´docker run -d -p 8000:8000 kipa/dev´
+```
+docker run -d -p 8000:8000 kipa/dev
+```
 
 This does command start container to background and makes port forwarding to containers 8000 port to hosts 8000 port.
 
