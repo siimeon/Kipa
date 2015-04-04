@@ -3,11 +3,7 @@
 This project is fork of [KIPA](http://sourceforge.net/projects/tupa2/).
 Scouting Skill contests result calculation software.
 
-### I have not writen this code and this project is for my own curiosity sake
-
-### I do not support this project and not have been part of it
-
-#### Base of my fork can be found from legacy branch
+#### Base of my fork can be found from legacy branch. I have not been part of orginal development team and I do not support this project.
 
 # Reason for this project
 
