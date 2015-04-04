@@ -27,7 +27,9 @@
 		<blockquote>
 			{% if object_list %}
 			    {% for kisa in object_list %}
-				<A href='{{kisa.nimi}}/' > {{kisa.nimi}} </A> <br>
+                <h2>
+                    <a href='{{kisa.nimi}}/'>{{kisa.nimi}}</a>
+                </h2>
 			    {% endfor %}
 
 			{% else %}
