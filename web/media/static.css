@@ -152,13 +152,15 @@ font: menu;
 
 #left
 {
-	width:40px;
+	width:45px;
 /* LC width */
 	padding:5px;
 /* LC padding */
 	right:5px;
 /* LC fullwidth + CC padding */
 	margin-left:-65px;
+
+    background: #c2c2c0;
 }
 
 /*** IE Fix ***/

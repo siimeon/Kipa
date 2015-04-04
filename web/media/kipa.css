@@ -23,7 +23,7 @@ body > #wrap
 {
 	height:auto;
 	min-height:100%;
-	background:url(/kipamedia/matte-blue.png) repeat-y;
+	/* background:url(/kipamedia/matte-blue.png) repeat-y; */
 }
 
 #main
@@ -349,7 +349,8 @@ tr .odd:hover
 	height:20px;
 	background:#ff0;
 	padding:8px;
-	background:url(/kipamedia/header.png) repeat-x;
+    background: #33652e;
+	/* background:url(/kipamedia/header.png) repeat-x; */
 }
 
 #pagetitle {
@@ -372,7 +373,8 @@ tr .odd:hover
 
 #breadcrumbs
 {
-	background:url(/kipamedia/green-bar.png);
+    background: #a9ce6c;
+	/* background:url(/kipamedia/green-bar.png); */
 	height:15px;
 	margin-bottom:-1px;
 	padding:3px 0 3px 8px;
