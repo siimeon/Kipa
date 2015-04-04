@@ -10,4 +10,4 @@ EXPOSE 8000
 
 WORKDIR /root/kipa/web
 
-CMD python manage.py runserver 0.0.0.0:8000
+CMD git pull &&  python manage.py runserver 0.0.0.0:8000

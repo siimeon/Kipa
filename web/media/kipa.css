@@ -420,7 +420,7 @@ a.sitetoolbarnav
 	font-weight:bold;
 	font-size:10px;
 	text-decoration:none;
-	border:1px solid #EDEDED;
+	/* border:1px solid #EDEDED; */
 }
 
 a.sitetoolbarnav:hover
