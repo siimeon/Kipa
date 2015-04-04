@@ -9,7 +9,7 @@ Scouting Skill contests result calculation software.
 
 #### Base of my fork can be found from legacy branch
 
-# What this project is doing
+# Reason for this project
 
 This project is for my curiosity about Kipa and Django. This project aims to study how Django web app works and maybe do some UI updates to Kipa.
 
